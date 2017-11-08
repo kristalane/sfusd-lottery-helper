@@ -1,0 +1,1 @@
+# sfusd-lottery-helper
